@@ -1,6 +1,6 @@
 
 
-# Week 4: Pattern using while and for loops
+# Week 4: Pattern using while and for loops.
 
 
 """1
