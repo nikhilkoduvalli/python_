@@ -1,0 +1,66 @@
+2
+
+Create a package named my package with two modules module1 and module2. 
+In module1, define a function add(a, b) that returns the sum of two numbers. 
+In module2, define a function subtract(a, b) that returns the difference of two numbers. 
+Write a script to use both functions from the package.
+
+
+3
+
+ Write a program to create a module name my_functions and perform 
+ string manipulation function for counting the vowels and reversing the string 
+
+
+4
+Create a Module  named calculator and do all the operations 
+add, mul, sub, div and use that module to create a calculator operation in another python file.
+
+
+5
+Write a function called fibonacci(n) that takes a non-negative integer n as input.
+The function should calculate the nth number in the Fibonacci sequence using recursion.
+The Fibonacci sequence is defined as follows:
+F(0) = 0
+F(1) = 1
+F(n) = F(n-1) + F(n-2) for n > 1
+
+6
+Create a Python package named date_utils with an __init__.py file.
+Inside the package, create a module named calculations.py.
+Define functions in the calculations.py module to perform basic date calculations, such as:
+days_between(date1, date2) - This function takes two date objects as input and returns the number of days between them.
+add_days(date, days) - This function takes a date object and an integer (number of days) as input and returns a new date object with the specified number of days added.
+Write a separate Python script that imports the date_utils.calculations module and uses the defined functions to perform date calculations.
+
+7
+
+
+Write a program that iterates through numbers from 1 to 100.
+If the number is divisible by 3, print "Fizz".
+If the number is divisible by 5, print "Buzz".
+If the number is divisible by both 3 and 5, print "FizzBuzz".
+Otherwise, print the number itself.
+
+8
+
+
+Given a list of consecutive numbers (except for one missing number), write a program that finds the missing number
+
+9
+
+ Find the first non-repeating character in a given string.
+Example 1:
+Input: s = "leetcode"
+Output: 0
+
+Example 2:
+Input: s = "loveleetcode"
+Output: 2
+
+
+
+
+
+
+

@@ -1,0 +1,78 @@
+##################functions######################
+
+# function:function is a block of code with omnly runs when it is called.you can pass data known as parameters into a function
+
+
+
+
+
+#def functin_name():   >>>>> defining a new function
+#     return_value     >>>>> value returns/set of operations held when function is called
+
+
+
+
+def Greet():
+    print("Morning")
+
+Greet()  
+
+
+#Greet()    >>>>  >>>>> calling a function
+
+
+
+
+function with para meter
+
+def function_name(parameter):
+       return value
+
+function_name(parameter)
+
+
+
+def mull(num1,num2):           num1=2  num2=3
+    print(num1*num2)            2*3
+    return mull                 return statement is used to exit a funcion and send a value back to the caller
+
+
+print(mull(2,3))
+
+
+
+
+def sum_num(*args)                             # * is given to in put n numbers of arguments in callingtime
+    return sum(args)
+
+print(sum_num(1,2,3,4,5,6,7))    
+
+
+
+
+default arguments
+
+
+
+
+def courses(name,cource,institution="luminar"):
+    print(f"{name}is attanding{cource} in {institution}")
+
+
+courses("Nikhil","Data Science")
+
+
+
+key word arguments
+
+def details(name,age):
+     print(f"i am {name} i am {age} years old")
+
+
+
+details(name="nikhil",age=20)
+
+
+
+
+

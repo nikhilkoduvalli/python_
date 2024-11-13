@@ -1,0 +1,24 @@
+python is also object oriented programing language since its begining
+it allow us to develop application using using an object orented approach
+
+
+
+
+principles of object oriented 
+
+Class 
+objectmethod
+inheritance
+polimorphism
+data abstraction
+encapsulation
+
+
+objec-
+     The object is related to a real world entity,objects are the building blocks of a program in oop,they can be created using classes
+     everything in python is an object,an almost everithing has attributesa and mthods
+
+
+
+class-
+     A class is like a blue print for creating objects it is 

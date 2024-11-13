@@ -1,0 +1,20 @@
+create a repository
+open gitbash
+git clone
+
+
+
+
+U>>>>un tracked files
+A>>>>Added file
+M>>>>Modified
+
+
+
+git status
+git add .    >>>>.all files has been tracked by git
+
+
+git commit -m "file name">>>>>
+
+git push -u origin main  >>>>>.push
